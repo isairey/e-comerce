@@ -63,8 +63,8 @@ Permite administrar productos, inventario, clientes, pedidos y ventas tanto en t
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/isairey/PuntodeVentas.git
-cd PuntodeVentas
+git clone https://github.com/isairey/e-comerce.git
+cd e-comerce
 2. Instalar dependencias
 composer install
 npm install
