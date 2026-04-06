@@ -1,7 +1,7 @@
 # 🛒 POS + E-Commerce System
 
 <p align="center">
-  <img width="800" src="https://via.placeholder.com/1200x300.png?text=POS+%2B+Ecommerce" alt="POS Ecommerce Banner"/>
+ 
 </p>
 
 <p align="center">
